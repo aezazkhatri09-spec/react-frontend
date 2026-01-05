@@ -39,6 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## `npm init -y`
+
+**Note about this command
+
+This command runs npm init with the -y (or --yes) flag, which automatically answers "yes" to all the prompts (name, version, description, etc.) and generates a default package.json file in your current directory. This allows you to set up a new project instantly without any user input. 
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
